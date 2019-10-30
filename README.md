@@ -1,3 +1,6 @@
+# Clone of https://github.com/jincod/dotnetcore-buildpack
+This clone is fixed to net core 2.2
+
 # Heroku .NET Core Buildpack
 
 
